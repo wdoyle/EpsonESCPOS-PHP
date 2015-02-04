@@ -7,6 +7,7 @@ https://www.abelectronics.co.uk/products/3/Raspberry-Pi/29/Serial-Pi
 
 In terms of software I have had this working on Apache2 on Linux, XAMPP and WAMP on Windows - All other web servers should support this!
 
+This supports all versions of EPSON Serial Printers. During the main part of my testing I was using  TM88III, TM88IV printers.
 
 
 #Installation and Configuration
