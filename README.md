@@ -1,5 +1,13 @@
 # EpsonESCPOS-PHP
-This project is to allow you to print to your EPSON Thermal Printer via PHP. This has been tested on Windows XP, Windows 7, Centos and Debian as well as a Raspberry PI
+This project is to allow you to print to your EPSON Thermal Printer via PHP.
+This has been tested on Windows XP, Windows 7, Centos and Debian as well as a Raspberry PI
+
+My current setup is a Raspberry PI 2 with a PI Serial adapter from ABElectronics
+https://www.abelectronics.co.uk/products/3/Raspberry-Pi/29/Serial-Pi
+
+In terms of software I have had this working on Apache2 on Linux, XAMPP and WAMP on Windows - All other web servers should support this!
+
+
 
 #Installation and Configuration
     #Windows:
