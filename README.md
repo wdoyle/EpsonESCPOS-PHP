@@ -14,11 +14,13 @@ RASPBERRY PI with PISERIAL
 
 If you have issues with the font be garbage on the page then you will need to change Port Speed
 Windows
-  Open Start -> Computer -> Right Click -> Manage Computer -> Devices -> Ports -> Find your port and click Properties -> Click Configure -> Edit the Settings
+
+
+    Open Start -> Computer -> Right Click -> Manage Computer -> Devices -> Ports -> Find your port and click Properties -> Click Configure -> Edit the Settings
 
     OR
 
-  Open CMD -> Windows Key and R -> CMD -> Enter -> MODE [SERIALPORT]:[PORT SPEED],N,8,1,P
+    Open CMD -> Windows Key and R -> CMD -> Enter -> MODE [SERIALPORT]:[PORT SPEED],N,8,1,P
              For reference: http://www.computerhope.com/issues/ch000245.htm
 
 LINUX
