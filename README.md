@@ -37,6 +37,9 @@ In terms of software I have had this working on Apache2 on Linux, XAMPP and WAMP
         You might want to try: stty -F /dev/tty[PORT] [SPEED]  however linux is usually out the box and it works.
         PLEASE NOTE: On Linux you may need to do: chmod a+x /dev/tty[DEVICE] as by default you only have Read Access to the Coms port
 
+#Youtube Video
+This is a link to show you what it looks like when printed:
+http://www.youtube.com/watch?v=k1KTLC01mtM
 
 #Sample Code
 
