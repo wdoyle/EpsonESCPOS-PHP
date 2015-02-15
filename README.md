@@ -86,3 +86,6 @@ http://www.youtube.com/watch?v=k1KTLC01mtM
         $printer->cut();
         // If you are creating multiple pages, I would ensure you put
         // sleep(1); so that the print doesn't get congested and stop working
+
+# Attribution
+This library is a modified version of escpos-php, a Library to work with ESC/POS thermal printers, implemented by Michael Billington. Further documentation is available at [https://github.com/mike42/escpos-php](https://github.com/mike42/escpos-php).
